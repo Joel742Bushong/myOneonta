@@ -5,7 +5,7 @@ markdown
 # Keyword
 
 ## Description
-Keyword is a project designed to demonstrate the implementation of modern web development practices using the latest technologies. It offers diverse customization options and features to meet various user needs. The project aims to provide a robust, scalable, and user-friendly application that can be easily extended and modified.
+Keyword is a project designed to demonstrate the implementation of modern myOneonta web development practices using the latest technologies. It offers diverse customization options and features to meet various user needs. The project aims to provide a robust, scalable, and user-friendly application that can be easily extended and modified.
 
 ## Features
 - Customizable components
@@ -23,8 +23,8 @@ Keyword is a project designed to demonstrate the implementation of modern web de
 
 ## Author
 **Your A/C Name**
-- Email: [Your a/c email id](mailto:Your a/c email id)
-- Website: [Keyword](Keyword)
+- Email: 
+- Website: [myOneonta](https://www.my-oneonta.com)
 
 ## Getting Started
 1. **Clone the Repository**:
